@@ -10,7 +10,7 @@ gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.3'
 gem 'turbolinks', '5.1.1'
 gem 'jbuilder', '2.7.0'
-gem 'bootsnap', '1.3.0' # Added to fix the bootsnap/setup heroku error 
+# gem 'bootsnap', '1.3.0' # Added to fix the bootsnap/setup heroku error 
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
